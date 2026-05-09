@@ -12,6 +12,8 @@ Singh, H., Ansari, H. R., & Raghava, G. P. S. (2013).
 **Improved Method for Linear B-Cell Epitope Prediction Using Antigen's Primary Sequence.** *PLOS ONE*, 8(5), e62216. 
 [https://doi.org/10.1371/journal.pone.0062216](https://doi.org/10.1371/journal.pone.0062216)
 
+zonedo:-(https://doi.org/10.5281/zenodo.20097564)
+
 ---
 
 ## About the Platform
