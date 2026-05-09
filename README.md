@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **LBtope**, an advanced computational tool designed to predict linear (continuous) B-cell epitopes from an antigen's primary sequence. Identifying these epitopes is a cornerstone of peptide-based vaccine design and the development of diagnostic kits. LBtope improves upon previous methods by utilizing larger, experimentally validated datasets and robust machine-learning architectures.
 
-**Web Server:** [http://crdd.osdd.net/raghava/lbtope/](http://crdd.osdd.net/raghava/lbtope/)
+**Web Server:** [http://crdd.osdd.net/raghava/lbtope/](http://crdd.osdd.net/raghava/lbtope/)(https://webs.iiitd.edu.in/raghava/lbtope)
 
 ---
 
